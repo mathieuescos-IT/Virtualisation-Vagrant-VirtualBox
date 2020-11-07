@@ -1,4 +1,7 @@
-# TP validation #
+# TP virtualisation #
 
-LE programme est composé d'un menu en deux partie. L'un permet de checker si tu as tes logiciels vagrant et virtualbox d'isntaller sur le poste.
-LE deuxième point dans le menu permet de lancer le set up du vagrant et virtualbox
+Le programme est composé d'un menu en deux parties. 
+
+Le premier permet de vérifier si les logiciels Vagrant et Virtualbox sont installés sur le poste.
+
+Le deuxième permet de lancer le set-up du Vagrant et Virtualbox
